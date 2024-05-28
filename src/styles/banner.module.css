@@ -1,0 +1,23 @@
+.container {
+  @apply w-full mb-10;
+}
+
+.content {
+  @apply w-11/12  max-w-[1280px] m-auto  flex justify-between flex-wrap;
+}
+
+.half_container {
+  @apply w-full md:w-1/2 flex flex-col justify-center;
+}
+
+.headline {
+  @apply text-heading-5 sm:text-heading-4 md:text-heading-3 text-primary-400 font-bold mb-3;
+}
+
+.description {
+  @apply text-justify;
+}
+
+.image {
+  @apply w-4/5 h-auto;
+}

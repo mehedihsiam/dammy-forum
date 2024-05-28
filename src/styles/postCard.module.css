@@ -1,0 +1,11 @@
+.users_name {
+  @apply text-xs text-gray-400 mb-3;
+}
+
+.card_footer {
+  @apply w-full p-3 flex;
+}
+
+.footer_button {
+  @apply w-1/3 flex justify-center items-center;
+}

@@ -1,0 +1,3 @@
+.container {
+  @apply inline-block overflow-hidden rounded-xl border border-metal-100 bg-white shadow-small p-4 mt-5;
+}

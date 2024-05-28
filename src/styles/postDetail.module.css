@@ -1,0 +1,11 @@
+.container {
+  @apply w-11/12 md:w-4/5 max-w-[1280px] min-h-[100vh] m-auto;
+}
+
+.post_title {
+  @apply text-heading-6 md:text-heading-5 uppercase font-medium mb-2 mt-4;
+}
+
+.author_name {
+  @apply text-gray-500 mb-10;
+}
